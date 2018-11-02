@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B4A6031B-A58E-1CF2-F868-64259CD023B1}|">
+  <MonoDevelop.Ide.ItemProperties.Puzzler PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/oscillateBall.cs">
+    <Files>
+      <File FileName="Assets/UdacityVR/Scripts/GameLogic.cs" Line="37" Column="53" />
+      <File FileName="Assets/UdacityVR/Scripts/LightUp.cs" Line="29" Column="52" />
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs" Line="200" Column="18" />
+      <File FileName="Assets/oscillateBall.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
